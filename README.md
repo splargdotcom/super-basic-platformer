@@ -1,5 +1,14 @@
 # Super Basic Platformer
 
+<!-- splarg-storefront:start -->
+<p align="center">
+  <strong><a href="https://splarg.itch.io/super-basic-platformer">▶ Play in browser on itch.io</a></strong>
+</p>
+<p align="center">
+  <a href="https://splarg.itch.io/super-basic-platformer">Screenshots & current public release</a> · <a href="https://splarg.com/">splarg.com</a>
+</p>
+<!-- splarg-storefront:end -->
+
 A deliberately simple, Game Boy-styled browser platformer by **Splarg**.
 
 Run and jump through procedurally generated levels, collect coins, stomp enemies and reach the portal at the end of each stage. The game tracks score, level and a local high score.
