@@ -9,6 +9,13 @@
 </p>
 <!-- splarg-storefront:end -->
 
+<!-- splarg-itch-media:start -->
+<p align="center">
+  <a href="https://splarg.itch.io/super-basic-platformer"><img src="docs/itch/cover.png" alt="Super Basic Platformer cover art" width="640"></a>
+</p>
+<!-- splarg-itch-media:end -->
+
+
 
 A deliberately simple, Game Boy-styled browser platformer by **Splarg**.
 
