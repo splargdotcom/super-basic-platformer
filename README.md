@@ -9,6 +9,7 @@
 </p>
 <!-- splarg-storefront:end -->
 
+
 A deliberately simple, Game Boy-styled browser platformer by **Splarg**.
 
 Run and jump through procedurally generated levels, collect coins, stomp enemies and reach the portal at the end of each stage. The game tracks score, level and a local high score.
